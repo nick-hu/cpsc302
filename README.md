@@ -4,4 +4,4 @@
 
 |     | Assignment
 :---: | :---
-**1** |Discretization error in centred difference approximation; stability in recursive integral computation
+[**1**](https://nbviewer.jupyter.org/github/nick-hu/cpsc302/blob/master/assignment1/assignment1.ipynb) |Discretization error in centred difference approximation; stability in recursive integral computation
