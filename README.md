@@ -10,3 +10,4 @@
 [**4**](https://nbviewer.jupyter.org/github/nick-hu/cpsc302/blob/master/assignment4/assignment4.ipynb) |Linear algebra review; matrix *p*- and Frobenius norms; the SVD
 [**5**](https://nbviewer.jupyter.org/github/nick-hu/cpsc302/blob/master/assignment5/assignment5.ipynb) |Least squares; accuracy and timing tests; data fitting and Moore's law
 [**6**](https://nbviewer.jupyter.org/github/nick-hu/cpsc302/blob/master/assignment6/assignment6.ipynb) |Tridiagonal matrix algorithm; properties of the QR decomposition and Moore-Penrose pseudoinverse; regularized least squares
+[**7**](https://nbviewer.jupyter.org/github/nick-hu/cpsc302/blob/master/assignment7/assignment7.ipynb) |Stationary linear iterative methods (Jacobi, Gauss-Seidel); convergence of relaxation methods
