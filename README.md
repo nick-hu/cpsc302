@@ -1,7 +1,7 @@
 # cpsc302
 
 <img src="https://raw.githubusercontent.com/nick-hu/cpsc302/master/gallery/transistors2.png" width="30%" display="inline-block">
-<img src="https://raw.githubusercontent.com/nick-hu/cpsc302/master/gallery/pagerank_web.png" width="30%" display="inline-block">
+<img src="https://raw.githubusercontent.com/nick-hu/cpsc302/master/gallery/relaxation_methods.png" width="30%" display="inline-block">
 <img src="https://raw.githubusercontent.com/nick-hu/cpsc302/master/gallery/pagerank_graph.png" width="30%" display="inline-block">
 
 **CPSC 302**: Numerical Computation for Algebraic Problems (2016W T1) assignments
@@ -20,4 +20,4 @@
 
 <img src="https://raw.githubusercontent.com/nick-hu/cpsc302/master/gallery/poly.png" width="30%" display="inline-block">
 <img src="https://raw.githubusercontent.com/nick-hu/cpsc302/master/gallery/poly_horner.png" width="30%" display="inline-block">
-<img src="https://raw.githubusercontent.com/nick-hu/cpsc302/master/gallery/relaxation_methods.png" width="30%" display="inline-block">
+<img src="https://raw.githubusercontent.com/nick-hu/cpsc302/master/gallery/pagerank_web.png" width="30%" display="inline-block">
